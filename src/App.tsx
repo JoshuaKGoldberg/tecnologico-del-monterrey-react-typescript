@@ -1,8 +1,18 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import logo from "./logo.svg";
 
-function App() {
+import "./App.css";
+
+/** @type string */
+let value = 0;
+
+value = "asdf";
+
+/**
+ * @type whatever
+ * @param whatever
+ */
+function Aalksdfjalskdfjalskdjfasldfj() {
   return (
     <div className="App">
       <header className="App-header">
@@ -23,4 +33,4 @@ function App() {
   );
 }
 
-export default App;
+export default Aalksdfjalskdfjalskdjfasldfj;
